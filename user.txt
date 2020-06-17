@@ -1,18 +1,10 @@
 [
   {
-    "username": "meimei",
-    "password": "123"
+    "username": "zhanglili",
+    "password": "123456"
   },
   {
-    "username": "meimei",
-    "password": "1233"
-  },
-  {
-    "username": "lili",
-    "password": "12345"
-  },
-  {
-    "username": "xiaowang",
-    "password": "123"
+    "username": "sumei",
+    "password": "123456"
   }
 ]

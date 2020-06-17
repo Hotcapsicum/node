@@ -56,7 +56,7 @@ const login = (request) => {
 
 // 注册的处理函数
 const register = (request) => {
-    log('register', request)
+    // log('register', request)
     let result
     if (request.method === 'POST') {
         const form = request.form()
